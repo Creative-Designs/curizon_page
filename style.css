@@ -87,6 +87,9 @@
 	background:#044F9B;
 	border:none;
 }
+.join_btn1{
+display:none;
+}
 /*==============right part=================*/
 .about_part{
 	padding:0 20px 0 90px;
@@ -179,10 +182,10 @@
 
 /*===========banner part=========*/
 .banner_style{
-	margin:15px 0 15px 0;
+	margin:0 0 15px 0;
 }
 .grey_background{
-	margin:20px 0 20px 0;
+	margin:20px 0 0 0;
 	background:#fff;
 	padding:0 15px 0 0;
 }
@@ -193,19 +196,16 @@
 
 }
 .welcome-head{
+display:none;
+}
+.benefit_para{
 	font-size:18px;
 	color:#141414;
 	font-weight:bold;
-	margin:10px 10px 0 10px;
-}
-.benefit_para{
-	font-size:16px;
-	color:#141414;
-	font-weight:bold;
-	margin:20px 0 0 20px;
+	margin:10px 0 0 20px;
 }
 .share_para{
-	font-size:15px;
+	font-size:16px;
 	color:#141414;
 
 	margin:20px 0 0 20px;
@@ -241,6 +241,16 @@
 	color:#000000;
 	line-height:20px;
 	margin:20px 0 0 0;
+}
+.join_btn1{
+	display:block;
+	margin:10px auto;
+	height:40px;
+	width:130px;
+	font-weight:bold;
+	font-size:16px!important;
+	background:#044F9B;
+	border:none;
 }
 .join_btn{
 	margin:15px 0 5px 0;
