@@ -81,9 +81,9 @@
 .join_btn{
 	margin:15px 0 5px 0;
 	height:35px;
-	width:110px;
+	width:120px;
 	font-weight:bold;
-	font-size:13px!important;
+	font-size:15px!important;
 	background:#044F9B;
 	border:none;
 }
@@ -193,26 +193,35 @@
 
 }
 .welcome-head{
-	font-size:16px;
+	font-size:18px;
 	color:#141414;
 	font-weight:bold;
 	margin:10px 10px 0 10px;
 }
 .benefit_para{
-	font-size:14px;
+	font-size:16px;
 	color:#141414;
 	font-weight:bold;
 	margin:20px 0 0 20px;
 }
 .share_para{
-	font-size:13px;
+	font-size:15px;
 	color:#141414;
 
 	margin:20px 0 0 20px;
 }
 /*============btn ====================*/
 .start_btn{
+	
+	
 	margin:20px 0 0 0;
+		
+	height:40px;
+	width:140px;
+	font-weight:bold;
+	font-size:16px!important;
+	background:#044F9B;
+	border:none;
 }
 /*======================left part=================*/
 .square_style{
@@ -235,10 +244,10 @@
 }
 .join_btn{
 	margin:15px 0 5px 0;
-	height:35px;
-	width:110px;
+	height:40px;
+	width:130px;
 	font-weight:bold;
-	font-size:13px!important;
+	font-size:16px!important;
 	background:#044F9B;
 	border:none;
 }
